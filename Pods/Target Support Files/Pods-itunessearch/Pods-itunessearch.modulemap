@@ -1,0 +1,6 @@
+framework module Pods_itunessearch {
+  umbrella header "Pods-itunessearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
